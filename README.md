@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahrizal</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="center" alt="Coding" width="350" src="https://cdn.dribbble.com/users/555872/screenshots/3063795/apple.gif">
 
 - 🏫 saya seorang mahasiswa biasa aja **kuliah dibandung**
 
