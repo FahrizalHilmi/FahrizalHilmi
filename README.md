@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahrizal</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">Software Engineering Student at Telkom University || Project Manager & Data Analyst Enthusiast</h3>
 
 - 🏫 saya seorang mahasiswa yang sedang **kuliah dibandung**
 
