@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahrizal</h1>
 <h3 align="center">Software Engineering Student at Telkom University </h3>
 
-- 🏫 saya seorang mahasiswa yang sedang **kuliah dibandung**
+- 🏫 saya mahasiswa lulusan Telkom University jurusan  **Rekayasa Perangkat lunak**
 
 - 👯  **semangat dalam hidup**
 
